@@ -1,0 +1,18 @@
+{
+ "content": [
+  {
+   "text": "The best Artemis II material NASA published is not a video.\n\nIt is the lunar flyby gallery on the mission page: 86 photos. I would start there before any recap."
+  }
+ ],
+ "socialAccounts": [
+  {
+   "platform": "LINKEDIN",
+   "socialAccountId": "<socialAccountId for me>",
+   "link": "https://www.nasa.gov/mission/artemis-ii/"
+  }
+ ],
+ "schedule": {
+  "type": "SCHEDULE_FOR_LATER",
+  "scheduledFor": "2026-12-01T13:00:00Z"
+ }
+}

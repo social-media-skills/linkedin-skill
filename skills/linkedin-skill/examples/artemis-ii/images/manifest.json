@@ -1,0 +1,88 @@
+{
+ "images": [
+  {
+   "id": "earthset",
+   "file": "images/earthset.jpg",
+   "layout": "plain",
+   "headline": "",
+   "headline_px": null,
+   "headline_px_in_feed": null,
+   "spec_dir": "..",
+   "images": [
+    "media/earthset.jpg"
+   ],
+   "size": "4:5",
+   "warnings": []
+  },
+  {
+   "id": "set-1-launch",
+   "file": "images/set-1-launch.jpg",
+   "layout": "plain",
+   "headline": "",
+   "headline_px": null,
+   "headline_px_in_feed": null,
+   "spec_dir": "..",
+   "images": [
+    "media/launch.jpg"
+   ],
+   "size": "4:5",
+   "warnings": []
+  },
+  {
+   "id": "set-2-limb",
+   "file": "images/set-2-limb.jpg",
+   "layout": "plain",
+   "headline": "",
+   "headline_px": null,
+   "headline_px_in_feed": null,
+   "spec_dir": "..",
+   "images": [
+    "media/earth-on-the-limb.jpg"
+   ],
+   "size": "4:5",
+   "warnings": []
+  },
+  {
+   "id": "set-3-orientale",
+   "file": "images/set-3-orientale.jpg",
+   "layout": "plain",
+   "headline": "",
+   "headline_px": null,
+   "headline_px_in_feed": null,
+   "spec_dir": "..",
+   "images": [
+    "media/orientale-basin.jpg"
+   ],
+   "size": "4:5",
+   "warnings": []
+  },
+  {
+   "id": "set-4-crescent",
+   "file": "images/set-4-crescent.jpg",
+   "layout": "plain",
+   "headline": "",
+   "headline_px": null,
+   "headline_px_in_feed": null,
+   "spec_dir": "..",
+   "images": [
+    "media/crescent-moon.jpg"
+   ],
+   "size": "4:5",
+   "warnings": []
+  },
+  {
+   "id": "splashdown",
+   "file": "images/splashdown.jpg",
+   "layout": "plain",
+   "headline": "",
+   "headline_px": null,
+   "headline_px_in_feed": null,
+   "spec_dir": "..",
+   "images": [
+    "media/splashdown.jpg"
+   ],
+   "size": "4:5",
+   "warnings": []
+  }
+ ]
+}

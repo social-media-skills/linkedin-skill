@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "9 days, 1 hour and 32 minutes after liftoff, the Artemis II crew were back on Earth.\n\nChristina Koch, Victor Glover, Jeremy Hansen and Reid Wiseman on the raft next to Orion, in the Pacific near San Diego, 10 April 2026.\n\nWe will tell the whole flight, launch to splashdown, at our next public night.\n\nPhoto: NASA.",
+   "media": [
+    {
+     "type": "MEDIA_LIBRARY",
+     "mediaId": "<mediaId for splashdown.jpg>"
+    }
+   ]
+  }
+ ],
+ "socialAccounts": [
+  {
+   "platform": "LINKEDIN_PAGES",
+   "socialAccountId": "<socialAccountId for page>"
+  }
+ ],
+ "schedule": {
+  "type": "SCHEDULE_FOR_LATER",
+  "scheduledFor": "2026-11-26T17:30:00Z"
+ }
+}

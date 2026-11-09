@@ -1,0 +1,11 @@
+{
+ "errors": 0,
+ "warnings": 1,
+ "items": [
+  {
+   "kind": "warning",
+   "post": "mission-page",
+   "message": "link card: many practitioners measure less reach for posts with links (LinkedIn has never confirmed it, and \"link in the first comment\" no longer seems to avoid it). Keep it if the click is the point; otherwise leave the link out"
+  }
+ ]
+}

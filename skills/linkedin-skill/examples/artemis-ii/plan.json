@@ -1,0 +1,106 @@
+{
+ "timezone": "America/New_York",
+ "rules": {
+  "per_week": 3
+ },
+ "manifests": [
+  "images/manifest.json"
+ ],
+ "accounts": {
+  "me": {
+   "kind": "profile",
+   "name": "Your Name",
+   "headline": "Science writer",
+   "socialAccountId": null,
+   "timezone": "America/New_York",
+   "times": [
+    "08:00"
+   ],
+   "days": [
+    "tue",
+    "wed",
+    "thu"
+   ],
+   "voice": "voice.json"
+  },
+  "page": {
+   "kind": "page",
+   "name": "Your Astronomy Club",
+   "headline": "Company Page",
+   "socialAccountId": null,
+   "timezone": "America/New_York",
+   "times": [
+    "12:30"
+   ],
+   "days": [
+    "mon",
+    "tue",
+    "wed",
+    "thu",
+    "fri"
+   ]
+  }
+ },
+ "posts": [
+  {
+   "id": "earthset",
+   "account": "me",
+   "topic": "artemis-ii",
+   "media": [
+    "images/earthset.jpg"
+   ],
+   "text": "57 years after Apollo 8's Earthrise, the Artemis II crew photographed the reverse.\n\nThis is Earthset, taken on 6 April 2026 as Orion passed behind the far side of the Moon. Going behind the Moon also meant a planned loss of signal with Earth.\n\nI have looked at a lot of space photos this year. This is the one I keep open.",
+   "at": "2026-11-24T08:00"
+  },
+  {
+   "id": "flyby-in-four",
+   "account": "me",
+   "topic": "artemis-ii",
+   "media": [
+    "images/set-1-launch.jpg",
+    "images/set-2-limb.jpg",
+    "images/set-3-orientale.jpg",
+    "images/set-4-crescent.jpg"
+   ],
+   "text": "If I could print four Artemis II photos, I would pick these.\n\n1. Liftoff, 1 April 2026.\n2. A crescent Earth on the Moon's edge, just before the planned loss of signal.\n3. The rings of the Orientale basin, one of the Moon's youngest large impact craters.\n4. A thin crescent Moon on the way home.\n\nAll four are NASA's.",
+   "at": "2026-11-25T08:00"
+  },
+  {
+   "id": "liftoff-video",
+   "account": "page",
+   "topic": "artemis-ii",
+   "media": [
+    "video/liftoff.mp4"
+   ],
+   "text": "This is the clip we will open our next public night with: Artemis II leaving the pad, filmed by a camera on the outside of Orion.\n\nThe first crewed flight around the Moon in more than 50 years: Reid Wiseman, Victor Glover and Christina Koch of NASA and Jeremy Hansen of the Canadian Space Agency, from Launch Pad 39B on 1 April 2026.\n\nVideo: NASA.",
+   "reshare": [
+    "The 30 seconds I keep rewatching from this year.",
+    "Our club opens its next public night with this. Come and see it on the big screen."
+   ],
+   "at": "2026-11-23T12:30"
+  },
+  {
+   "id": "splashdown",
+   "account": "page",
+   "topic": "artemis-ii",
+   "media": [
+    "images/splashdown.jpg"
+   ],
+   "text": "9 days, 1 hour and 32 minutes after liftoff, the Artemis II crew were back on Earth.\n\nChristina Koch, Victor Glover, Jeremy Hansen and Reid Wiseman on the raft next to Orion, in the Pacific near San Diego, 10 April 2026.\n\nWe will tell the whole flight, launch to splashdown, at our next public night.\n\nPhoto: NASA.",
+   "reshare": [
+    "Nine days, and this is how it ends: four people on a raft in the Pacific.",
+    "Our club is telling the whole Artemis II story at the next public night."
+   ],
+   "at": "2026-11-26T12:30"
+  },
+  {
+   "id": "mission-page",
+   "account": "me",
+   "topic": "artemis-ii",
+   "link": "https://www.nasa.gov/mission/artemis-ii/",
+   "page": "page.json",
+   "text": "The best Artemis II material NASA published is not a video.\n\nIt is the lunar flyby gallery on the mission page: 86 photos. I would start there before any recap.",
+   "at": "2026-12-01T08:00"
+  }
+ ]
+}

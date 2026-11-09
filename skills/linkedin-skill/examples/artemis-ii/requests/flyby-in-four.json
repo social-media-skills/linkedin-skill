@@ -1,0 +1,35 @@
+{
+ "content": [
+  {
+   "text": "If I could print four Artemis II photos, I would pick these.\n\n1. Liftoff, 1 April 2026.\n2. A crescent Earth on the Moon's edge, just before the planned loss of signal.\n3. The rings of the Orientale basin, one of the Moon's youngest large impact craters.\n4. A thin crescent Moon on the way home.\n\nAll four are NASA's.",
+   "media": [
+    {
+     "type": "MEDIA_LIBRARY",
+     "mediaId": "<mediaId for set-1-launch.jpg>"
+    },
+    {
+     "type": "MEDIA_LIBRARY",
+     "mediaId": "<mediaId for set-2-limb.jpg>"
+    },
+    {
+     "type": "MEDIA_LIBRARY",
+     "mediaId": "<mediaId for set-3-orientale.jpg>"
+    },
+    {
+     "type": "MEDIA_LIBRARY",
+     "mediaId": "<mediaId for set-4-crescent.jpg>"
+    }
+   ]
+  }
+ ],
+ "socialAccounts": [
+  {
+   "platform": "LINKEDIN",
+   "socialAccountId": "<socialAccountId for me>"
+  }
+ ],
+ "schedule": {
+  "type": "SCHEDULE_FOR_LATER",
+  "scheduledFor": "2026-11-25T13:00:00Z"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "57 years after Apollo 8's Earthrise, the Artemis II crew photographed the reverse.\n\nThis is Earthset, taken on 6 April 2026 as Orion passed behind the far side of the Moon. Going behind the Moon also meant a planned loss of signal with Earth.\n\nI have looked at a lot of space photos this year. This is the one I keep open.",
+   "media": [
+    {
+     "type": "MEDIA_LIBRARY",
+     "mediaId": "<mediaId for earthset.jpg>"
+    }
+   ]
+  }
+ ],
+ "socialAccounts": [
+  {
+   "platform": "LINKEDIN",
+   "socialAccountId": "<socialAccountId for me>"
+  }
+ ],
+ "schedule": {
+  "type": "SCHEDULE_FOR_LATER",
+  "scheduledFor": "2026-11-24T13:00:00Z"
+ }
+}

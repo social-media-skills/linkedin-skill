@@ -1,0 +1,73 @@
+{
+ "brand": {
+  "name": "",
+  "font": "serif",
+  "colors": {
+   "bg": "#0E1116",
+   "fg": "#F3EFE7",
+   "accent": "#E8A23B"
+  }
+ },
+ "images": [
+  {
+   "id": "earthset",
+   "layout": "plain",
+   "image": "media/earthset.jpg",
+   "size": "4:5",
+   "focus": [
+    0.48,
+    0.5
+   ]
+  },
+  {
+   "id": "set-1-launch",
+   "layout": "plain",
+   "image": "media/launch.jpg",
+   "size": "4:5",
+   "focus": [
+    0.53,
+    0.45
+   ]
+  },
+  {
+   "id": "set-2-limb",
+   "layout": "plain",
+   "image": "media/earth-on-the-limb.jpg",
+   "size": "4:5",
+   "focus": [
+    0.66,
+    0.5
+   ]
+  },
+  {
+   "id": "set-3-orientale",
+   "layout": "plain",
+   "image": "media/orientale-basin.jpg",
+   "size": "4:5",
+   "focus": [
+    0.55,
+    0.55
+   ]
+  },
+  {
+   "id": "set-4-crescent",
+   "layout": "plain",
+   "image": "media/crescent-moon.jpg",
+   "size": "4:5",
+   "focus": [
+    0.5,
+    0.6
+   ]
+  },
+  {
+   "id": "splashdown",
+   "layout": "plain",
+   "image": "media/splashdown.jpg",
+   "size": "4:5",
+   "focus": [
+    0.42,
+    0.5
+   ]
+  }
+ ]
+}

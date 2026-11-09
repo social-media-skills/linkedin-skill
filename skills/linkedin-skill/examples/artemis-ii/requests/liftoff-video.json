@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "This is the clip we will open our next public night with: Artemis II leaving the pad, filmed by a camera on the outside of Orion.\n\nThe first crewed flight around the Moon in more than 50 years: Reid Wiseman, Victor Glover and Christina Koch of NASA and Jeremy Hansen of the Canadian Space Agency, from Launch Pad 39B on 1 April 2026.\n\nVideo: NASA.",
+   "media": [
+    {
+     "type": "MEDIA_LIBRARY",
+     "mediaId": "<mediaId for liftoff.mp4>"
+    }
+   ]
+  }
+ ],
+ "socialAccounts": [
+  {
+   "platform": "LINKEDIN_PAGES",
+   "socialAccountId": "<socialAccountId for page>"
+  }
+ ],
+ "schedule": {
+  "type": "SCHEDULE_FOR_LATER",
+  "scheduledFor": "2026-11-23T17:30:00Z"
+ }
+}
